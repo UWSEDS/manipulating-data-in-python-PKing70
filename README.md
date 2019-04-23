@@ -1,5 +1,11 @@
 # HW1
 
+##### Grade: 6/7
+
+-0: It's sufficient to only do df.head(). Visualizing the entire dataframe takes up too much space on the page.  
+-1: Plot is hard to read. You should've aggregated the count of each hour first.
+_____
+
 Obtain the CSV (comma separated variable) file containing the counts of bicycles crossing the Fremont Bridge since 2012 (as described in https://data.seattle.gov/Transportation/Fremont-Bridge-Hourly-Bicycle-Counts-by-Month-Octo/65db-xm6k). Create a project directory with subdirectories for data and analysis, and create a README file. Download the data from https://data.seattle.gov/api/views/65db-xm6k/rows.csv?accessType=DOWNLOAD and put it in the data directory. Create a Jupyter notebook to analyze these data. In the notebook, complete the following:
 
 1. Read the CSV file into a pandas dataframe. (1 pt)
